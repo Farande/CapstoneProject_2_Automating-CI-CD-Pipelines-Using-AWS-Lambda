@@ -454,8 +454,28 @@ Updated Website
 The project demonstrates an automated, serverless CI/CD deployment workflow using AWS Lambda.
 
 Image1:CodePipeline Configuration 
+<img width="1366" height="768" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/b0f6b66a-de22-4463-bae5-cd9f706a4509" />
+
 Image2:CodePipeline Execution
-Image3:Lambda Execution
+<img width="1366" height="768" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/e3a4e2d4-9f81-419d-bc44-5f2e078c0975" />
+
+
 Image4:Lambda IAM Role
+<img width="1366" height="768" alt="Screenshot (712)" src="https://github.com/user-attachments/assets/c3db2950-b111-48da-b109-b04c4f53899b" />
+
+Image5:CodePipeline IAM role
+<img width="1366" height="768" alt="Screenshot (713)" src="https://github.com/user-attachments/assets/aef74c36-f26e-4a61-abde-21fd0e52ad33" />
+
+Image6:S3 bucket
+<img width="1366" height="768" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/ebb7cee4-1e31-481c-9713-e8746a0f616e" />
+
+Image7:Running application
+<img width="1366" height="768" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/e7b8bf4f-cf3f-445a-9c37-1b975acd7aa6" />
+
+Image8:CloudWatch logs
+<img width="1366" height="768" alt="Screenshot (702)" src="https://github.com/user-attachments/assets/6c820b19-1e31-4fb9-86ab-742fb48e32dc" />
+
+Image 9:GitHub repository
+
 
 
